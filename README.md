@@ -5,12 +5,14 @@ Install Requirement
 ``` bash
 pkg install bash
 ```
+Usage
 -----
 * Usage Command
 ``` bash
-bash ipdomen.sh listip.txt
+bash DorkIp.sh
 ```
 -----
-* Example Input Dork
+* Usage Dork
 ``` Laravel
+[+] Input Dork : laravel
 ```
